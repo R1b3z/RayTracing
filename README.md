@@ -5,4 +5,4 @@
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?logo=cmake&logoColor=white)
 
 
-Small project to learn about RayTracing follow RT in a weekend
+Small project to learn about RayTracing while following the RT in a weekend book.
