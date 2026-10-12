@@ -1,0 +1,30 @@
+## IDE
+.idea/
+
+## CMake build directories and generated files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+
+## Compiled binaries and object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+## Debugging and profiling
+*.dSYM/
+*.gdb_history
+
+## Generated application output
+*.ppm
